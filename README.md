@@ -15,7 +15,7 @@ npm i chai
 
 How to run all tests
 
-npm test
+npm test | node jsnamefile.js
 
 
 Learn more about Mocha here:https://mochajs.org/
